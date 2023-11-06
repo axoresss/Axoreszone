@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "4fa95735f64f54aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1528d134426ca70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c94b628da06ed8fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "我不是自愿的.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f1b6a773faf446d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e15bb53f3ffefdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c6bc80970b75dd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3aead24516138d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42c6c6069fa20565",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1013f10ad553f711",
+    "type": "split",
+    "children": [
+      {
+        "id": "7219af1c2ac10b11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f04e52474029938",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "我不是自愿的.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4bc83446d5efb04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "我不是自愿的.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f0846dc9db0184c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b3c846d1186eda6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "我不是自愿的.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c94b628da06ed8fb",
+  "lastOpenFiles": [
+    "SAXII.md",
+    "Welcome-to-Axoreszone.md",
+    "我不是自愿的.md",
+    "2019-2020.md",
+    "2020-2021.md",
+    "2021-2022.md",
+    "我是自愿过生日的.md"
+  ]
+}
